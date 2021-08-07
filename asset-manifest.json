@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Amazon-Redux/static/css/main.87aacaee.chunk.css",
+    "main.js": "/Amazon-Redux/static/js/main.1f01842a.chunk.js",
+    "main.js.map": "/Amazon-Redux/static/js/main.1f01842a.chunk.js.map",
+    "runtime-main.js": "/Amazon-Redux/static/js/runtime-main.096e899a.js",
+    "runtime-main.js.map": "/Amazon-Redux/static/js/runtime-main.096e899a.js.map",
+    "static/js/2.7d5554c3.chunk.js": "/Amazon-Redux/static/js/2.7d5554c3.chunk.js",
+    "static/js/2.7d5554c3.chunk.js.map": "/Amazon-Redux/static/js/2.7d5554c3.chunk.js.map",
+    "index.html": "/Amazon-Redux/index.html",
+    "static/css/main.87aacaee.chunk.css.map": "/Amazon-Redux/static/css/main.87aacaee.chunk.css.map",
+    "static/js/2.7d5554c3.chunk.js.LICENSE.txt": "/Amazon-Redux/static/js/2.7d5554c3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.096e899a.js",
+    "static/js/2.7d5554c3.chunk.js",
+    "static/css/main.87aacaee.chunk.css",
+    "static/js/main.1f01842a.chunk.js"
+  ]
+}
